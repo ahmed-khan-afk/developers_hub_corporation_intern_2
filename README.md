@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Internship-DevelopersHub%20Corp-7C3AED?style=for-the-badge"/>
 </p>
 
-<h1 align="center">✅ Glassmorphic To-Do List App</h1>
+<h1 align="center">To-Do List App</h1>
 <p align="center">
   A beautiful, fully functional To-Do List app built with Flutter featuring a glassmorphism UI design, persistent local storage via SharedPreferences, and smooth animations — developed as part of <strong>Week 2</strong> of the DevelopersHub Corporation Flutter Internship.
 </p>
