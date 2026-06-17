@@ -28,8 +28,6 @@
 | Feature | Description |
 |---|---|
 | ➕ Add Tasks | Create new tasks via an animated bottom sheet |
-| ✏️ Edit Tasks | Update any existing task inline |
-| 🗑️ Delete Tasks | Swipe left to delete with an UNDO option |
 | ✅ Toggle Complete | Mark tasks as done with animated checkbox |
 | 💾 Persistent Storage | All tasks saved locally using `SharedPreferences` |
 | 🔍 Filter Tabs | Switch between All / Pending / Completed views |
@@ -178,4 +176,4 @@ Flutter Development Intern @ DevelopersHub Corporation
 
 ---
 
-<p align="center">Built with 💜 Flutter — DevelopersHub Corporation Internship Week 2</p>
+<p align="center">Built with 💜 Flutter</p>
