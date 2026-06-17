@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✅ Glassmorphic To-Do List App
 
 A Flutter To-Do List app built for **Week 2** of the DevelopersHub Corporation Flutter Internship.
@@ -81,3 +82,7 @@ final List<String>? encoded = prefs.getStringList('tasks_list');
 ---
 
 Built with 💜 Flutter — DevelopersHub Corporation Internship Week 2
+=======
+# developers_hub_corporation_intern_2
+Repository for the development I'm going to do as a Developers Hub intern Week 2
+>>>>>>> 6834b0c5527470b1c98c26191597b9577419e2e8
