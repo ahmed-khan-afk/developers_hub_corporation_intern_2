@@ -28,6 +28,7 @@
 | Feature | Description |
 |---|---|
 | ➕ Add Tasks | Create new tasks via an animated bottom sheet |
+| 🗑️ Delete Tasks | Delete the completed tasks wuth Clear Done button |
 | ✅ Toggle Complete | Mark tasks as done with animated checkbox |
 | 💾 Persistent Storage | All tasks saved locally using `SharedPreferences` |
 | 🔍 Filter Tabs | Switch between All / Pending / Completed views |
